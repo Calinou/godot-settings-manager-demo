@@ -4,6 +4,10 @@ A demo project that shows how to use the [Godot Settings Manager](https://github
 
 ## Installation
 
+**This demo currently requires
+[Godot 3.1 alpha 4](https://godotengine.org/article/dev-snapshot-godot-3-1-alpha-4)
+or later.**
+
 - Clone this repository or
   [download a ZIP archive](https://github.com/Calinou/godot-settings-manager-demo/archive/master.zip).
 - Install the
