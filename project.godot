@@ -23,7 +23,7 @@ config/icon="res://icon.png"
 
 [autoload]
 
-SettingsManager="*res://addons/settings_manager/settings_manager.gd"
+SettingsManager="*res://addons/settings_manager/settings_manager.tscn"
 
 [defaults]
 
